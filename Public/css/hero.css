@@ -1,0 +1,52 @@
+#hero{
+    max-width: 128rem;
+    margin: auto;
+}
+
+.hero__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.decr__title{
+    font-size: 6rem;
+}
+.decr__text{
+    font-size: 1.8rem;
+}
+.btn__hero__list{
+    margin-top: 2rem;
+    cursor: pointer;
+    display: flex;
+    gap: 1rem;
+}
+.btn__buy{
+    padding: 1rem 1rem;
+    border: none;
+    background-color: rgb(79, 70, 229);
+    color: white;
+    border-radius: 999px;
+    transition: all 0.2s linear;
+}
+.btn__free{
+    padding: 1rem 1rem;
+    border:2px solid rgb(79, 70, 229);
+    background-color:white;
+    color: rgb(79, 70, 229);
+    border-radius: 999px;
+    transition: all 0.2s linear;
+}
+.hero__screenshot img{
+    max-width: none;
+    width: 920px;
+    height: 612.031px;
+}
+.hover\:bg-indigo-800:hover {
+    --tw-bg-opacity: 1;
+    background-color: rgb(55 48 163 / var(--tw-bg-opacity));
+}
+.hover\:bg-indigo-50:hover{
+    --tw-bg-opacity: 1;
+    background-color: rgb(238 242 255 / var(--tw-bg-opacity));
+}
