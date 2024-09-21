@@ -70,6 +70,14 @@ html{
     --tw-text-opacity: 1;
     color: rgb(107 114 128 / var(--tw-text-opacity));
 }
+.text-neutral-800 {
+    --tw-text-opacity: 1;
+    color: rgb(38 38 38 / var(--tw-text-opacity));
+}
+/* .text-sm {
+    font-size: .875rem;
+    line-height: 2rem;
+} */
 .my-2 {
     margin-top: .5rem;
     margin-bottom: .5rem;
@@ -87,4 +95,5 @@ html{
     --tw-border-opacity: 1;
     border-color: rgb(233 213 255 / var(--tw-border-opacity));
 } 
+
 
