@@ -142,8 +142,8 @@ svg.tick{
     gap: .75rem;
 }
 svg.tick{
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 2rem;
+    height: 2rem;
 }
 .btn__start{
     padding: 1rem 1rem;
