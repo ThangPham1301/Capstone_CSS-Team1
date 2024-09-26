@@ -1,0 +1,99 @@
+body{
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    font-size: 1.6rem; /*khôi phục lại mặc định kích thước trình duyệt là 16px*/
+}
+html{
+    font-size: 10px;
+}
+.max-w-screen-xl {
+    max-width: 1280px;
+}
+.rounded-md {
+    border-radius: .375rem;
+}
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.overflow-x-clip {
+    overflow-x: clip;
+}
+.text-gray-600 {
+    --tw-text-opacity: 1;
+    color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+.leading-none{
+    line-height: 1;
+}
+.font-bold {
+    font-weight: 700;
+}
+/* bg */
+.bg-gray-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(229 231 235 / var(--tw-bg-opacity));
+}
+
+.bg-indigo-600{
+    --tw-bg-opacity: 1;
+    background-color: rgb(79 70 229 / var(--tw-bg-opacity));
+}
+.bg-purple-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(243 232 255 / var(--tw-bg-opacity));
+}
+
+/* text */
+.text-purple-600 {
+    --tw-text-opacity: 1;
+    color: rgb(147 51 234 / var(--tw-text-opacity));
+}
+.text-indigo-600{
+    --tw-text-opacity: 1;
+    color: rgb(79 70 229 / var(--tw-text-opacity));
+}
+.text-slate-500 {
+    --tw-text-opacity: 1;
+    color: rgb(100 116 139 / var(--tw-text-opacity));
+}
+.text-slate-600{
+    --tw-text-opacity: 1;
+    color: rgb(71 85 105 / var(--tw-text-opacity));
+}
+
+.text-slate-700{
+    --tw-text-opacity: 1;
+    color: rgb(51 65 85 / var(--tw-text-opacity));
+}
+.text-gray-500 {
+    --tw-text-opacity: 1;
+    color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+.text-neutral-800 {
+    --tw-text-opacity: 1;
+    color: rgb(38 38 38 / var(--tw-text-opacity));
+}
+/* .text-sm {
+    font-size: .875rem;
+    line-height: 2rem;
+} */
+.my-2 {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+/* font */
+.font-medium {
+    font-weight: 500;
+}
+.text-xs {
+    font-size: .75rem;
+    line-height: 1rem;
+}
+/* border */
+.border-purple-200{
+    --tw-border-opacity: 1;
+    border-color: rgb(233 213 255 / var(--tw-border-opacity));
+} 
+
+

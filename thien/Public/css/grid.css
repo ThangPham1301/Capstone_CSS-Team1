@@ -1,0 +1,65 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-12{
+    /* không cho phép bóp width của element lại */
+    flex-shrink: 0;
+    /* chiếm lấy phần thừa của flex */
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: 100%;
+}   
+.col-5{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(5*100%/12);
+}
+.col-6{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(100%/2);
+}
+.col-8{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(8*100%/12);
+}
+.col-4{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(4*100%/12);
+}
+.col-3{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(3*100%/12);
+}
+.col-2{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(2*100%/12);
+}
+.col-7{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: auto;
+
+    width: calc(7*100%/12);
+}
+
+
