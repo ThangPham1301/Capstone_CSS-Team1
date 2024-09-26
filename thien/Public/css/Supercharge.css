@@ -1,0 +1,167 @@
+#Supercharge{
+    max-width: 128rem;
+    margin: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.list__brand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    margin-top: 2.4rem;
+}
+.wrapper1__title{
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: inherit;
+}
+.Supercharge__wrapper2{
+    text-align: center;
+    max-width: 80rem;
+    margin-top: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.border__text{
+    padding: .4rem 1.2rem;
+    border-radius: 999px;
+    font-size: 1.2rem;
+}
+.wrapper2__title{
+    font-weight: 700;
+    font-size: 4.8rem;
+    margin-top: 1rem;
+
+}
+.Supercharge__wrapper3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 3rem;
+}
+.wrapper3__img img{
+    width: 620px;
+    height: 496px;
+}
+.wrapper3__derc{
+   padding-left: 5rem;
+}
+.wrapper3__title{
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3rem;
+    margin-top: 2rem;
+    
+    text-wrap: balance;
+}
+.wrapper3__text{
+    font-size: 1.6rem;
+    margin-top: 2rem;
+
+    text-wrap: balance;
+}
+.wrapper3__list{
+    list-style: none;
+    line-height: 4rem;
+    padding: 0;
+    font-size: 1.4rem;
+
+}
+.wrapper3__list__item{
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+}
+svg.tick{
+    width: 1.25rem;
+    height: 1.25rem;
+}
+.btn__start{
+    padding: 1rem 1rem;
+    border: none;
+    background-color: rgb(79, 70, 229);
+    color: white;
+    border-radius: 999px;
+    transition: all 0.2s linear;
+}
+.btn__supercharge__list{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 2.5rem;
+    font-size: 1.4rem;
+    transition: all 0.2s linear;
+}
+.btn__contact{
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
+.Supercharge__wrapper4{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 1rem;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+.wrapper4__img img{
+    width: 620px;
+    height: 496px;
+}
+.wrapper4__derc{
+   padding-left: 5rem;
+}
+.wrapper4__title{
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3rem;
+    margin-top: 2rem;
+    
+    text-wrap: balance;
+}
+.wrapper4__text{
+    font-size: 1.6rem;
+    margin-top: 2rem;
+
+    text-wrap: balance;
+}
+.wrapper4__list{
+    list-style: none;
+    line-height: 4rem;
+    padding: 0;
+    font-size: 1.4rem;
+
+}
+.wrapper4__list__item{
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+}
+svg.tick{
+    width: 1.25rem;
+    height: 1.25rem;
+}
+.btn__start{
+    padding: 1rem 1rem;
+    border: none;
+    background-color: rgb(79, 70, 229);
+    color: white;
+    border-radius: 999px;
+    transition: all 0.2s linear;
+}
+.btn__supercharge__list{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 2.5rem;
+    font-size: 1.4rem;
+    transition: all 0.2s linear;
+}
+.btn__contact{
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
